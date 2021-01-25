@@ -30,7 +30,7 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 
 
 ### Now the application has to be setup on the machine by following steps-:
-1.Clone the Project from Git Repository -:
+1. Clone the Project from Git Repository -:
     git clone https://github.com/Jashan-Goku/iRobot.git
 2. pip3 install virtualenv (This Installs the virtual env package)
 3. python3 -m venv venv (This Installs the virtual env for the project with Active Python3 in it)
