@@ -46,7 +46,9 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 
 ### NOTE-: Please insert your own API Key in .env file for successful execution of the application.
 
-
+## Future Work-:
+### There can be various modifications done to the application such as -:
+Shopping Bag can be designed in various ways such as a List of Common Ingredients, aisles and the average price is calculated on the basis of ingredient used in the recipe to the price per amount(gram/ounce/spoon etc).
 
 
 
