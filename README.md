@@ -1,8 +1,8 @@
 # iRobot
-##iRobot Cloud SW Team Take Home Assignment
+## iRobot Cloud SW Team Take Home Assignment
 The application is built using flask restX framework and is using MongoDb as a Database.
 
-###Now to install Mongo(Mac), it requires to install some dependencies such as -:
+### Now to install Mongo(Mac), it requires to install some dependencies such as -:
 
     Open Terminal
     Execute Following Commands-:
@@ -17,7 +17,7 @@ The application is built using flask restX framework and is using MongoDb as a D
 
 By executing above commands Mongo should be installed on the system.
 
-###Next, we have to run MongoDb on the system by executing following commands in Terminal-:
+### Next, we have to run MongoDb on the system by executing following commands in Terminal-:
     1. brew services start mongodb-community@4.4
 
     if there is mongo service already running you can stop it by following command and re-run it by executing step above
@@ -29,7 +29,7 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 
 
 
-###Now the application has to be setup on the machine by following steps-:
+### Now the application has to be setup on the machine by following steps-:
 1.Clone the Project from Git Repository -:
     git clone https://github.com/Jashan-Goku/iRobot.git
 2. pip3 install virtualenv (This Installs the virtual env package)
@@ -44,7 +44,7 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 7. In Order to check the rest API's on swagger -:
     1. Run the app.py and launch http://127.0.0.1:5000 on your browser
 
-###NOTE-: Please insert the API Key in .env file for successful execution of the application.
+### NOTE-: Please insert the API Key in .env file for successful execution of the application.
 
 
 
