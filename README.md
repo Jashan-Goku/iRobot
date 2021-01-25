@@ -44,7 +44,7 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 7. In Order to check the rest API's on swagger -:
     1. Run the app.py and launch http://127.0.0.1:5000 on your browser
 
-### NOTE-: Please insert the API Key in .env file for successful execution of the application.
+### NOTE-: Please insert your own API Key in .env file for successful execution of the application.
 
 
 
